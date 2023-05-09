@@ -2,6 +2,8 @@ Dataset/Webpages_Classification_test_data.csv
 
 Dataset/Webpages_Classification_train_data.csv
 
+Dataset/Company Names/companies_sorted.csv
+
 .ipynb_checkpoints/
 
 Experiment.ipynb
