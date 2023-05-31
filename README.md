@@ -16,7 +16,7 @@ NOTE: Raw dataset files are not included in this repository, as it is too large 
 
 ![Results](Results.png)
 
-To learn more, check out our research paper: 
+To learn more, check out our research paper: https://github.com/JustinBui/CPSC483-URL-Classifier/blob/main/CPSC_483_Class_Project_Conference_Paper__Cyber_Security_FINAL.pdf
 
 
 ## Technologies Used: 
@@ -28,6 +28,8 @@ To learn more, check out our research paper:
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
+<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 
 
 </p>
